@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rhX5Im2y3NvhUJnm3zs7BMqds0aNbikvSWtVIIcvPj+BbMYA1UC8cjhwrszq0SltvrTUbxzO9FCG2Lp/DTtDPw==",
+  "dgSpecHash": "hoWNgnf19SJulDn7eo99fCsZlw548kOX6cSN/yGzhL19WQG9hnIn80cox6sCfXDrFzhk+CgEtxbUc+VfdANyGg==",
   "success": true,
-  "projectFilePath": "E:\\Working\\WPFCV\\WPFCV.csproj",
+  "projectFilePath": "E:\\Working\\Git\\CVWPF\\WPFCV\\WPFCV.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",

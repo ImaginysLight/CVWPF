@@ -33,7 +33,7 @@
             </Grid.RowDefinitions>
             <Ellipse Width="240" Height="225">
                 <Ellipse.Fill>
-                    <ImageBrush ImageSource="E:\Working\WPFCV\Image\HinhCV.png" />
+                    <ImageBrush ImageSource="./Image/HinhCV.png" />
                 </Ellipse.Fill>
             </Ellipse>
             <TextBlock Text="DINH LE" Grid.Row="1" Foreground="LightBlue" FontSize="30" FontWeight="Bold" TextWrapping="Wrap" TextAlignment="Center"/>

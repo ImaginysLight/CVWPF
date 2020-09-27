@@ -152,11 +152,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Working\\WPFCV\\WPFCV.csproj",
+      "projectUniqueName": "E:\\Working\\Git\\CVWPF\\WPFCV\\WPFCV.csproj",
       "projectName": "WPFCV",
-      "projectPath": "E:\\Working\\WPFCV\\WPFCV.csproj",
+      "projectPath": "E:\\Working\\Git\\CVWPF\\WPFCV\\WPFCV.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\Working\\WPFCV\\obj\\",
+      "outputPath": "E:\\Working\\Git\\CVWPF\\WPFCV\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
