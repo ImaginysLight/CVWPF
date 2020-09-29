@@ -17,7 +17,7 @@
                 <RowDefinition Height="300"/>
                 <RowDefinition Height="40"/>
                 <RowDefinition Height="50"/>
-                <RowDefinition Height="60"/>
+                <RowDefinition Height="20"/>
                 <RowDefinition Height="50"/>
                 <RowDefinition Height="30"/>
                 <RowDefinition Height="30"/>
@@ -38,7 +38,7 @@
             </Ellipse>
             <TextBlock Text="DINH LE" Grid.Row="1" Foreground="LightBlue" FontSize="30" FontWeight="Bold" TextWrapping="Wrap" TextAlignment="Center"/>
             <TextBlock Text="HOANG CHUONG" Grid.Row="2" Foreground="LightBlue" FontSize="30" FontWeight="Bold" TextAlignment="Center"/>
-            <TextBlock Text=".NET DEVELOPER" Grid.Row="3" Foreground="LightBlue"  FontSize="25" TextDecorations="Underline" FontWeight="Bold" TextAlignment="Center"/>
+            <!--<TextBlock Text=".NET DEVELOPER" Grid.Row="3" Foreground="LightBlue"  FontSize="25" TextDecorations="Underline" FontWeight="Bold" TextAlignment="Center"/>-->
             <TextBlock Text="Skills" Grid.Row="4" Foreground="Aquamarine" FontSize="40" FontWeight="Bold" TextAlignment="Center"/>
             <TextBlock Text=" ♦ C# .NET" Grid.Row="5" Foreground="LightGray" FontSize="20" TextAlignment="Left"/>
             <TextBlock Text=" ♦ Algorithms" Grid.Row="6" Foreground="LightGray" FontSize="20" TextAlignment="Left"/>
@@ -70,7 +70,7 @@
                 <TextBlock Text="PROFILE" FontSize="35" TextAlignment="Center" Foreground="Aquamarine" FontWeight="Bold"></TextBlock>
                 <TextBlock Text=" • An imaginative developer with 1-year experience in .NET framework, I am looking for an organization with a clear orientation where I can dedicate to the company and learning to become Senior Developer." TextAlignment="Justify" FontSize="21" Foreground="LightGray" TextWrapping="Wrap">
                 </TextBlock>
-                <TextBlock Text=" • With good fundamental knowledge in coding, I am able to acquire a variety of technology language, from HTML, Typescript to C#, SQL." FontSize="21"  Foreground="LightGray" TextWrapping="Wrap" TextAlignment="Justify"></TextBlock>
+                <TextBlock Text=" • With good fundamental knowledge in coding, I am able to acquire a variety of technologies and languages, from HTML, Typescript to C#, SQL." FontSize="21"  Foreground="LightGray" TextWrapping="Wrap" TextAlignment="Justify"></TextBlock>
                 <TextBlock Text=" • I have basic understanding in the fields of structure and algorithm, which I learned in the preparation of the Vietnam Olympic Informatics Competition in 2018." FontSize="21"  Foreground="LightGray" TextAlignment="Justify" TextWrapping="Wrap"></TextBlock>
                 <TextBlock Text=" • I also consider myself to experience in discussion and explanation as I finished many presentations and seminars while I was in college." FontSize="21"  Foreground="LightGray" TextWrapping="Wrap" TextAlignment="Justify"></TextBlock>
             </StackPanel>
